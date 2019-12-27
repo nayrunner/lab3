@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-   float x = 2 , z=0;
+   float x = 6 , z=0;
 
-   while(x<=69){
+   while(x<=19){
        z=z+ 1/x;
        x++; 
        }
